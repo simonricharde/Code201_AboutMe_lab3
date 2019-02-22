@@ -3,7 +3,6 @@ var shorBio = 'My name is SIMON RICHARD ESWARAMOORTHY, I have 7 years experience
 var correctAnswerscount = 0;
 var name = '';
 
-
 while (name.length < 1) {
     name = prompt('What is your name?');
 }
